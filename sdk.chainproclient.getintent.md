@@ -49,7 +49,7 @@ The id of the intent to fetch
 </tbody></table>
 **Returns:**
 
-Promise&lt;import("./api/types").IntentGroup \| undefined&gt;
+Promise&lt;import("./api/types").[IntentGroup](./sdk.intentgroup.md) \| undefined&gt;
 
 The intent with the given id
 

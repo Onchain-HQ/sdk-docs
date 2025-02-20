@@ -53,7 +53,7 @@ network
 
 </td><td>
 
-TokenNetwork
+[TokenNetwork](./sdk.tokennetwork.md)
 
 
 </td><td>
@@ -81,7 +81,7 @@ The address on network to withdraw to
 </tbody></table>
 **Returns:**
 
-Promise&lt;PostUsersIntentsRes&gt;
+Promise&lt;[PostUsersIntentsRes](./sdk.postusersintentsres.md)<!-- -->&gt;
 
 The created intent, which will not be run until authorized with 
 

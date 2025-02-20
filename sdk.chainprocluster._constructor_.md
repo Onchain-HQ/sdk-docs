@@ -96,7 +96,7 @@ authorizeIntent
 
 </td><td>
 
-(intent: PostUsersIntentsRes) =&gt; Promise&lt;void&gt;
+(intent: [PostUsersIntentsRes](./sdk.postusersintentsres.md)<!-- -->) =&gt; Promise&lt;void&gt;
 
 
 </td><td>

@@ -37,7 +37,7 @@ network
 
 </td><td>
 
-TokenNetwork
+[TokenNetwork](./sdk.tokennetwork.md)
 
 
 </td><td>
@@ -65,7 +65,7 @@ The token to rebalance with, "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE" for EV
 </tbody></table>
 **Returns:**
 
-Promise&lt;PostUsersIntentsRes&gt;
+Promise&lt;[PostUsersIntentsRes](./sdk.postusersintentsres.md)<!-- -->&gt;
 
 The created intent, which will not be run until authorized with   When funding a single account out of many for a multi-wallet cluster, executing a rebalance balances the amount of tokens across all clusters so that they are roughly equal, with some jittering.
 

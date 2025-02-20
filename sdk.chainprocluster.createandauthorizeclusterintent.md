@@ -37,7 +37,7 @@ tasks
 
 </td><td>
 
-UserTaskSpec\[\]
+[UserTaskSpec](./sdk.usertaskspec.md)<!-- -->\[\]
 
 
 </td><td>

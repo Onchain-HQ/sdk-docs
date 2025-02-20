@@ -37,7 +37,7 @@ tasks
 
 </td><td>
 
-UserTaskSpec\[\]
+[UserTaskSpec](./sdk.usertaskspec.md)<!-- -->\[\]
 
 
 </td><td>
@@ -49,7 +49,7 @@ The tasks to execute in the intent. The input amount of tasks will be split acro
 </tbody></table>
 **Returns:**
 
-Promise&lt;PostUsersIntentsRes&gt;
+Promise&lt;[PostUsersIntentsRes](./sdk.postusersintentsres.md)<!-- -->&gt;
 
 The created intent, which will not be run until authorized with 
 

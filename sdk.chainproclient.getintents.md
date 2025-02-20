@@ -13,7 +13,7 @@ getIntents(): Promise<import("./api/types").GetUsersIntentsRes>;
 ```
 **Returns:**
 
-Promise&lt;import("./api/types").GetUsersIntentsRes&gt;
+Promise&lt;import("./api/types").[GetUsersIntentsRes](./sdk.getusersintentsres.md)<!-- -->&gt;
 
 All active intents the user has
 

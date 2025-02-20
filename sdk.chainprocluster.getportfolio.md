@@ -13,7 +13,7 @@ getPortfolio(): Promise<import("./api/types").GetUsersPortfolioRes>;
 ```
 **Returns:**
 
-Promise&lt;import("./api/types").GetUsersPortfolioRes&gt;
+Promise&lt;import("./api/types").[GetUsersPortfolioRes](./sdk.getusersportfoliores.md)<!-- -->&gt;
 
 Native token balances of the given cluster
 

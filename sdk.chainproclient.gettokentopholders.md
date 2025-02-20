@@ -50,7 +50,7 @@ string
 </tbody></table>
 **Returns:**
 
-Promise&lt;{ holders: import("./api/types").TokenHolderV2\[\]; totalHolders: number; }&gt;
+Promise&lt;{ holders: import("./api/types").[TokenHolderV2](./sdk.tokenholderv2.md)<!-- -->\[\]; totalHolders: number; }&gt;
 
 The token info for each address, indexed in the same way as addresses.
 

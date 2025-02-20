@@ -49,7 +49,7 @@ The addresses to fetch token information for, across any chain
 </tbody></table>
 **Returns:**
 
-Promise&lt;import("./api/types").GetTokensRes&gt;
+Promise&lt;import("./api/types").[GetTokensRes](./sdk.gettokensres.md)<!-- -->&gt;
 
 The token info for each address, indexed in the same way as addresses.
 

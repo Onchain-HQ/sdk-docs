@@ -13,7 +13,7 @@ getNativeBalances(): Promise<import("./api/types").GetUsersPortfolioNativeBalanc
 ```
 **Returns:**
 
-Promise&lt;import("./api/types").GetUsersPortfolioNativeBalancesRes&gt;
+Promise&lt;import("./api/types").[GetUsersPortfolioNativeBalancesRes](./sdk.getusersportfolionativebalancesres.md)<!-- -->&gt;
 
 Native token balances of the given cluster
 

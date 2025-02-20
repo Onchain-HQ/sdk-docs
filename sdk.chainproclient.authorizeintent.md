@@ -37,7 +37,7 @@ intent
 
 </td><td>
 
-PostUsersIntentsRes
+[PostUsersIntentsRes](./sdk.postusersintentsres.md)
 
 
 </td><td>

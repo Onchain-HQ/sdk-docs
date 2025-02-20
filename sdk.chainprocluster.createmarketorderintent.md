@@ -69,7 +69,7 @@ network
 
 </td><td>
 
-TokenNetwork
+[TokenNetwork](./sdk.tokennetwork.md)
 
 
 </td><td>
@@ -161,7 +161,7 @@ _(Optional)_ The number of seconds over which to buy the token
 </tbody></table>
 **Returns:**
 
-Promise&lt;PostUsersIntentsRes&gt;
+Promise&lt;[PostUsersIntentsRes](./sdk.postusersintentsres.md)<!-- -->&gt;
 
 The created intent, which will not be run until authorized with 
 
